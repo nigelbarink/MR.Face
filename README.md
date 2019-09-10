@@ -22,7 +22,7 @@ Who uses a GUI anyway :P
 ./install_opencv.sh
 ```
 
-2. 
+2. If  
 
 ## About the project 
 
